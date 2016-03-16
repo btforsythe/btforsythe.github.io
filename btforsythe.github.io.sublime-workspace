@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_site/about/index.html",
+			"settings":
+			{
+				"buffer_size": 7435,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -40,10 +48,21 @@
 	},
 	"expanded_folders":
 	[
-		"/home/sycophant/blog/btforsythe.github.io"
+		"/home/sycophant/blog/btforsythe.github.io",
+		"/home/sycophant/blog/btforsythe.github.io/_site",
+		"/home/sycophant/blog/btforsythe.github.io/_site/about",
+		"/home/sycophant/blog/btforsythe.github.io/_site/script",
+		"/home/sycophant/blog/btforsythe.github.io/script"
 	],
 	"file_history":
 	[
+		"/home/sycophant/blog/btforsythe.github.io/script/cibuild",
+		"/home/sycophant/blog/btforsythe.github.io/.travis.yml",
+		"/home/sycophant/blog/btforsythe.github.io/_config.yml",
+		"/home/sycophant/blog/btforsythe.github.io/_site/index.html",
+		"/home/sycophant/blog/btforsythe.github.io/_site/script/cibuild",
+		"/home/sycophant/blog/btforsythe.github.io/index.html",
+		"/home/sycophant/blog/btforsythe.github.io/Gemfile",
 		"/home/sycophant/Downloads/dwarfFortress/04024r3-x64/README.md",
 		"/home/sycophant/Downloads/dwarfFortress/taffer/taffer/alternates/keybindings/readme.txt",
 		"/home/sycophant/Downloads/dwarfFortress/taffer/taffer/instructions.txt",
@@ -94,8 +113,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_site/about/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -105,7 +155,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
