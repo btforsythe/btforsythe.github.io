@@ -1,5 +1,0 @@
----
-category: foo
----
-
-draft post
