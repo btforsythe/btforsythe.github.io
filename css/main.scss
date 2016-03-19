@@ -4,6 +4,18 @@
 @charset "utf-8";
 
 
+// "Muted and minimal" color definitions
+// #06 from https://designschool.canva.com/blog/website-color-schemes/
+// Originally from http://www.awwwards.com/best-websites/my-356-days-in-print/
+$dusty: #96858F;
+$lavendar: #6D7993;
+$overcast: #9099A2;
+$paper: #D5D5D5;
+
+// core colors
+$text-color:		$lavendar;
+$background-color:	$paper;
+$brand-color:		$dusty;
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -13,10 +25,6 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -49,5 +57,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "poetry"
 ;
