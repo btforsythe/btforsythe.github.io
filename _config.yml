@@ -31,8 +31,5 @@ defaults:
     -
         scope:
             path: ""
-            type: poetry #should I create a poetry layout instead of using pre.poetry?
         values:
             author: B. T. Forsythe
-            tags:
-                - poem
